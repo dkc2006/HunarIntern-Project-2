@@ -1,5 +1,5 @@
 EduWeb - The Best Program to Enroll for Exchange
-This is an education html template made by codewithsadee
+This is an education html template made by Deepanshu Khandelwal
 
 
 
@@ -251,7 +251,7 @@ Subscribe
 <ion-icon name="logo-youtube"></ion-icon>
 
 
-Copyright 2022 All Rights Reserved by codewithsadee
+Copyright 2024 All Rights Reserved by Deepanshu Khandelwal
 
 
 
